@@ -1,2 +1,10 @@
-PyPDF2
-spacy
+streamlit==1.35.0
+transformers==4.41.2
+huggingface-hub==0.23.0
+sentence-transformers==2.7.0
+torch>=2.2.0
+spacy==3.7.4
+PyMuPDF==1.24.3
+scikit-learn==1.4.2
+tqdm==4.66.4
+requests==2.31.0
