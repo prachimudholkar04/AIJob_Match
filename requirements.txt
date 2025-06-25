@@ -1,7 +1,7 @@
 streamlit==1.35.0
 transformers==4.41.2
 huggingface-hub==0.23.0
-sentence_transformers
+sentence-transformers==2.7.0
 torch>=2.2.0
 spacy==3.7.4
 PyMuPDF==1.24.3
